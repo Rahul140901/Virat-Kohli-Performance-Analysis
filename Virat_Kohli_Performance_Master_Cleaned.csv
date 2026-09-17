@@ -1,0 +1,623 @@
+Match_ID,Date,Year,Format,Opponent,Venue,City,Innings,Batting_Position,Runs,Balls,Fours,Sixes,Strike_Rate,Dismissal,Not_Out,Hundred,Fifty,Result,Player_of_Match,Captaincy,Captaincy_Basis,City_Source
+343732,18-08-2008,2008,ODI,Sri Lanka,Rangiri Dambulla International Stadium,Dambulla,1,2,12,22,1,0,54.55,lbw,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Manually Verified
+343733,20-08-2008,2008,ODI,Sri Lanka,Rangiri Dambulla International Stadium,Dambulla,2,2,37,67,6,0,55.22,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Manually Verified
+343734,24-08-2008,2008,ODI,Sri Lanka,R Premadasa Stadium,Colombo,1,1,25,38,4,0,65.79,run out,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+366341,27-08-2008,2008,ODI,Sri Lanka,R Premadasa Stadium,Colombo,1,1,54,66,7,0,81.82,bowled,No,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+343736,29-08-2008,2008,ODI,Sri Lanka,R Premadasa Stadium,Colombo,2,1,31,46,3,1,67.39,lbw,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+403383,14-09-2009,2009,ODI,Sri Lanka,R Premadasa Stadium,Colombo,1,7,2,2,0,0,100,Not Out,Yes,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+415278,26-09-2009,2009,ODI,Pakistan,SuperSport Park,Centurion,2,4,16,24,1,0,66.67,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+415284,30-09-2009,2009,ODI,West Indies,New Wanderers Stadium,Johannesburg,2,4,79,104,9,2,75.96,Not Out,Yes,No,Yes,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+416236,25-10-2009,2009,ODI,Australia,Reliance Stadium,Vadodara,2,4,30,41,3,0,73.17,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+416239,02-11-2009,2009,ODI,Australia,"Punjab Cricket Association Stadium, Mohali",Chandigarh,2,3,10,16,1,0,62.5,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+430886,15-12-2009,2009,ODI,Sri Lanka,Madhavrao Scindia Cricket Ground,Rajkot,1,7,27,19,4,0,142.11,bowled,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+430887,18-12-2009,2009,ODI,Sri Lanka,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,1,4,54,65,7,0,83.08,lbw,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+430889,24-12-2009,2009,ODI,Sri Lanka,Eden Gardens,Kolkata,2,4,107,114,11,1,93.86,caught,No,Yes,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+434259,05-01-2010,2010,ODI,Sri Lanka,Shere Bangla National Stadium,Mirpur,1,3,9,12,1,0,75,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+434260,07-01-2010,2010,ODI,Bangladesh,Shere Bangla National Stadium,Mirpur,2,3,91,102,7,0,89.22,caught and bowled,No,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+434262,10-01-2010,2010,ODI,Sri Lanka,Shere Bangla National Stadium,Mirpur,2,3,71,68,9,0,104.41,Not Out,Yes,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+434263,11-01-2010,2010,ODI,Bangladesh,Shere Bangla National Stadium,Mirpur,2,3,102,95,11,0,107.37,Not Out,Yes,Yes,No,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+434264,13-01-2010,2010,ODI,Sri Lanka,Shere Bangla National Stadium,Mirpur,1,3,2,8,0,0,25,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+441827,21-02-2010,2010,ODI,South Africa,Sawai Mansingh Stadium,Jaipur,1,5,31,46,1,0,67.39,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+441829,27-02-2010,2010,ODI,South Africa,"Sardar Patel Stadium, Motera",Ahmedabad,2,3,57,71,4,1,80.28,caught,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+452147,30-05-2010,2010,ODI,Sri Lanka,Queens Sports Club,Bulawayo,2,3,82,92,4,0,89.13,caught,No,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+452149,03-06-2010,2010,ODI,Zimbabwe,Harare Sports Club,Harare,1,3,18,29,1,0,62.07,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Derived from Venue
+452150,05-06-2010,2010,ODI,Sri Lanka,Harare Sports Club,Harare,1,3,68,95,5,0,71.58,caught,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Derived from Venue
+452153,12-06-2010,2010,T20,Zimbabwe,Harare Sports Club,Harare,2,5,26,21,3,1,123.81,Not Out,Yes,No,No,Win,No,Non-Captain,International captaincy tenure by format,Derived from Venue
+455232,16-06-2010,2010,ODI,Bangladesh,Rangiri Dambulla International Stadium,Dambulla,2,3,11,22,0,0,50,stumped,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Manually Verified
+455234,19-06-2010,2010,ODI,Pakistan,Rangiri Dambulla International Stadium,Dambulla,2,3,18,27,1,0,66.67,bowled,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Manually Verified
+455236,22-06-2010,2010,ODI,Sri Lanka,Rangiri Dambulla International Stadium,Dambulla,1,3,10,14,1,0,71.43,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Manually Verified
+455237,24-06-2010,2010,ODI,Sri Lanka,Rangiri Dambulla International Stadium,Dambulla,1,3,28,34,4,0,82.35,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Manually Verified
+456663,16-08-2010,2010,ODI,Sri Lanka,Rangiri Dambulla International Stadium,Dambulla,2,3,0,3,0,0,0,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Manually Verified
+456665,25-08-2010,2010,ODI,New Zealand,Rangiri Dambulla International Stadium,Dambulla,1,3,8,16,1,0,50,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Manually Verified
+456668,28-08-2010,2010,ODI,Sri Lanka,Rangiri Dambulla International Stadium,Dambulla,2,3,37,57,5,0,64.91,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Manually Verified
+464529,20-10-2010,2010,ODI,Australia,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,2,3,118,121,11,1,97.52,caught,No,Yes,No,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+467883,28-11-2010,2010,ODI,New Zealand,Nehru Stadium,Guwahati,1,3,105,104,10,0,100.96,caught,No,Yes,No,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+467884,01-12-2010,2010,ODI,New Zealand,Sawai Mansingh Stadium,Jaipur,2,3,64,73,8,0,87.67,caught,No,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+467885,04-12-2010,2010,ODI,New Zealand,Reliance Stadium,Vadodara,2,3,63,70,6,2,90,Not Out,Yes,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+467886,07-12-2010,2010,ODI,New Zealand,M Chinnaswamy Stadium,Bangalore,2,3,0,2,0,0,0,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+467887,10-12-2010,2010,ODI,New Zealand,"MA Chidambaram Stadium, Chepauk",Chennai,2,3,2,8,0,0,25,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+463149,09-01-2011,2011,T20,South Africa,Moses Mabhida Stadium,Durban,1,1,28,19,5,0,147.37,bowled,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+463150,12-01-2011,2011,ODI,South Africa,Kingsmead,Durban,2,3,54,70,2,1,77.14,caught,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+463151,15-01-2011,2011,ODI,South Africa,New Wanderers Stadium,Johannesburg,1,3,22,34,1,0,64.71,run out,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+463152,18-01-2011,2011,ODI,South Africa,Newlands,Cape Town,2,3,28,41,5,0,68.29,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+463153,21-01-2011,2011,ODI,South Africa,St George's Park,Port Elizabeth,2,3,87,92,7,2,94.57,Not Out,Yes,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+463154,23-01-2011,2011,ODI,South Africa,SuperSport Park,Centurion,2,3,2,6,0,0,33.33,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+433558,19-02-2011,2011,ODI,Bangladesh,Shere Bangla National Stadium,Mirpur,1,4,100,83,8,2,120.48,Not Out,Yes,Yes,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+433568,27-02-2011,2011,ODI,England,M Chinnaswamy Stadium,Bangalore,1,7,8,5,1,0,160,bowled,No,No,No,No Result/Tie,No,Non-Captain,International captaincy tenure by format,Cricsheet
+433578,06-03-2011,2011,ODI,Ireland,M Chinnaswamy Stadium,Bangalore,2,4,34,53,3,0,64.15,Not Out,Yes,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+433582,09-03-2011,2011,ODI,Netherlands,Feroz Shah Kotla,Delhi,2,5,12,20,2,0,60,bowled,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+433586,12-03-2011,2011,ODI,South Africa,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,1,7,1,3,0,0,33.33,caught and bowled,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+433599,20-03-2011,2011,ODI,West Indies,"MA Chidambaram Stadium, Chepauk",Chennai,1,3,59,76,5,0,77.63,bowled,No,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+433601,24-03-2011,2011,ODI,Australia,"Sardar Patel Stadium, Motera",Ahmedabad,2,4,24,33,1,0,72.73,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+433605,30-03-2011,2011,ODI,Pakistan,"Punjab Cricket Association Stadium, Mohali",Chandigarh,1,4,9,21,0,0,42.86,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+433606,02-04-2011,2011,ODI,Sri Lanka,Wankhede Stadium,Mumbai,2,4,35,49,4,0,71.43,caught and bowled,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+489220,04-06-2011,2011,T20,West Indies,"Queen's Park Oval, Port of Spain",Trinidad,1,3,14,12,2,0,116.67,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+489221,06-06-2011,2011,ODI,West Indies,"Queen's Park Oval, Port of Spain",Trinidad,2,3,2,8,0,0,25,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+489222,08-06-2011,2011,ODI,West Indies,"Queen's Park Oval, Port of Spain",Trinidad,2,3,81,103,6,1,78.64,caught,No,No,Yes,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+489223,11-06-2011,2011,ODI,West Indies,"Sir Vivian Richards Stadium, North Sound",Antigua,2,3,0,1,0,0,0,lbw,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+489224,13-06-2011,2011,ODI,West Indies,"Sir Vivian Richards Stadium, North Sound",Antigua,2,3,22,33,1,0,66.67,stumped,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+489225,16-06-2011,2011,ODI,West Indies,"Sabina Park, Kingston",Jamaica,1,3,94,104,10,0,90.38,run out,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+489226,20-06-2011,2011,Test,West Indies,"Sabina Park, Kingston",Jamaica,1,5,4,10,1,0,40,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+489226,20-06-2011,2011,Test,West Indies,"Sabina Park, Kingston",Jamaica,3,5,15,54,2,0,27.78,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+489227,28-06-2011,2011,Test,West Indies,"Kensington Oval, Bridgetown",Barbados,1,5,0,2,0,0,0,caught,No,No,No,No Result/Tie,No,Non-Captain,International captaincy tenure by format,Cricsheet
+489227,28-06-2011,2011,Test,West Indies,"Kensington Oval, Bridgetown",Barbados,3,5,27,107,1,1,25.23,caught,No,No,No,No Result/Tie,No,Non-Captain,International captaincy tenure by format,Cricsheet
+489228,06-07-2011,2011,Test,West Indies,"Windsor Park, Roseau",Dominica,2,5,30,53,2,0,56.6,caught,No,No,No,No Result/Tie,No,Non-Captain,International captaincy tenure by format,Cricsheet
+474476,31-08-2011,2011,T20,England,Old Trafford,Manchester,1,4,4,5,0,0,80,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+474477,03-09-2011,2011,ODI,England,Riverside Ground,Chester-le-Street,1,4,55,73,4,0,75.34,bowled,No,No,Yes,No Result/Tie,No,Non-Captain,International captaincy tenure by format,Cricsheet
+474478,06-09-2011,2011,ODI,England,The Rose Bowl,Southampton,1,4,9,9,0,0,100,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+474479,09-09-2011,2011,ODI,England,Kennington Oval,London,1,4,7,18,0,0,38.89,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+474480,11-09-2011,2011,ODI,England,Lord's,London,1,4,16,36,1,0,44.44,caught,No,No,No,No Result/Tie,No,Non-Captain,International captaincy tenure by format,Cricsheet
+474481,16-09-2011,2011,ODI,England,Sophia Gardens,Cardiff,1,4,107,93,9,1,115.05,hit wicket,No,Yes,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+521218,14-10-2011,2011,ODI,England,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,1,4,37,63,0,0,58.73,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+521219,17-10-2011,2011,ODI,England,Feroz Shah Kotla,Delhi,2,4,112,98,16,0,114.29,Not Out,Yes,Yes,No,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+521220,20-10-2011,2011,ODI,England,"Punjab Cricket Association Stadium, Mohali",Chandigarh,2,4,35,30,5,0,116.67,lbw,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+521221,23-10-2011,2011,ODI,England,Wankhede Stadium,Mumbai,2,4,86,99,11,0,86.87,Not Out,Yes,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+521222,25-10-2011,2011,ODI,England,Eden Gardens,Kolkata,1,3,0,5,0,0,0,bowled,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+521217,29-10-2011,2011,T20,England,Eden Gardens,Kolkata,1,3,15,16,3,0,93.75,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+535999,22-11-2011,2011,Test,West Indies,Wankhede Stadium,Mumbai,2,6,52,111,5,0,46.85,caught,No,No,Yes,No Result/Tie,No,Non-Captain,International captaincy tenure by format,Cricsheet
+535999,22-11-2011,2011,Test,West Indies,Wankhede Stadium,Mumbai,4,6,63,114,3,1,55.26,caught,No,No,Yes,No Result/Tie,No,Non-Captain,International captaincy tenure by format,Cricsheet
+536929,29-11-2011,2011,ODI,West Indies,Barabati Stadium,Cuttack,2,4,3,6,0,0,50,bowled,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+536930,02-12-2011,2011,ODI,West Indies,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,2,4,117,123,14,0,95.12,caught,No,Yes,No,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+536931,05-12-2011,2011,ODI,West Indies,"Sardar Patel Stadium, Motera",Ahmedabad,2,4,20,30,3,0,66.67,lbw,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+536932,08-12-2011,2011,ODI,West Indies,Holkar Cricket Stadium,Indore,1,6,23,11,3,0,209.09,Not Out,Yes,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+536933,11-12-2011,2011,ODI,West Indies,"MA Chidambaram Stadium, Chepauk",Chennai,1,5,80,85,5,0,94.12,caught,No,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+518950,26-12-2011,2011,Test,Australia,Melbourne Cricket Ground,Melbourne,2,7,11,21,1,0,52.38,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Derived from Venue
+518950,26-12-2011,2011,Test,Australia,Melbourne Cricket Ground,Melbourne,4,6,0,1,0,0,0,lbw,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Derived from Venue
+518951,03-01-2012,2012,Test,Australia,Sydney Cricket Ground,Sydney,1,6,23,41,3,0,56.1,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Derived from Venue
+518951,03-01-2012,2012,Test,Australia,Sydney Cricket Ground,Sydney,3,6,9,24,2,0,37.5,lbw,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Derived from Venue
+518952,13-01-2012,2012,Test,Australia,Western Australia Cricket Association Ground,Perth,1,6,44,81,6,0,54.32,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+518952,13-01-2012,2012,Test,Australia,Western Australia Cricket Association Ground,Perth,3,6,75,136,9,0,55.15,caught,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+518953,24-01-2012,2012,Test,Australia,Adelaide Oval,Adelaide,2,6,116,213,11,1,54.46,lbw,No,Yes,No,Loss,No,Non-Captain,International captaincy tenure by format,Derived from Venue
+518953,24-01-2012,2012,Test,Australia,Adelaide Oval,Adelaide,4,6,22,62,2,0,35.48,run out,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Derived from Venue
+518954,01-02-2012,2012,T20,Australia,Stadium Australia,Sydney,2,3,22,21,0,1,104.76,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+518955,03-02-2012,2012,T20,Australia,Melbourne Cricket Ground,Melbourne,2,3,31,24,3,0,129.17,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Derived from Venue
+518956,05-02-2012,2012,ODI,Australia,Melbourne Cricket Ground,Melbourne,2,3,31,34,3,0,91.18,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Derived from Venue
+518957,08-02-2012,2012,ODI,Sri Lanka,Western Australia Cricket Association Ground,Perth,2,3,77,94,8,1,81.91,run out,No,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+518959,12-02-2012,2012,ODI,Australia,Adelaide Oval,Adelaide,2,3,18,28,1,0,64.29,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Derived from Venue
+518960,14-02-2012,2012,ODI,Sri Lanka,Adelaide Oval,Adelaide,2,3,15,25,1,0,60,lbw,No,No,No,No Result/Tie,No,Non-Captain,International captaincy tenure by format,Derived from Venue
+518962,19-02-2012,2012,ODI,Australia,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2,3,12,25,0,0,48,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+518963,21-02-2012,2012,ODI,Sri Lanka,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2,4,66,83,2,0,79.52,caught,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+518965,26-02-2012,2012,ODI,Australia,Sydney Cricket Ground,Sydney,2,4,21,27,2,0,77.78,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Derived from Venue
+518966,28-02-2012,2012,ODI,Sri Lanka,Bellerive Oval,Hobart,2,4,133,86,16,2,154.65,Not Out,Yes,Yes,No,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+535795,13-03-2012,2012,ODI,Sri Lanka,Shere Bangla National Stadium,Mirpur,1,3,108,120,7,0,90,caught,No,Yes,No,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+535797,16-03-2012,2012,ODI,Bangladesh,Shere Bangla National Stadium,Mirpur,1,3,66,82,5,0,80.49,bowled,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+535798,18-03-2012,2012,ODI,Pakistan,Shere Bangla National Stadium,Mirpur,2,3,183,148,22,2,123.65,caught,No,Yes,No,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+564781,21-07-2012,2012,ODI,Sri Lanka,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Hambantota,1,3,106,113,9,0,93.81,caught,No,Yes,No,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+564782,24-07-2012,2012,ODI,Sri Lanka,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",Hambantota,1,3,1,5,0,0,20,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+564783,28-07-2012,2012,ODI,Sri Lanka,R Premadasa Stadium,Colombo,2,3,38,65,2,0,58.46,caught and bowled,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+564784,31-07-2012,2012,ODI,Sri Lanka,R Premadasa Stadium,Colombo,2,3,128,119,12,2,107.56,Not Out,Yes,Yes,No,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+564785,04-08-2012,2012,ODI,Sri Lanka,Pallekele International Cricket Stadium,Kandy,1,3,23,35,2,0,65.71,lbw,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Derived from Venue
+564786,07-08-2012,2012,T20,Sri Lanka,Pallekele International Cricket Stadium,Kandy,1,3,68,48,11,1,141.67,caught,No,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Derived from Venue
+565817,23-08-2012,2012,Test,New Zealand,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,1,5,58,107,8,0,54.21,caught,No,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+565818,31-08-2012,2012,Test,New Zealand,M Chinnaswamy Stadium,Bangalore,2,5,103,193,14,1,53.37,lbw,No,Yes,No,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+565818,31-08-2012,2012,Test,New Zealand,M Chinnaswamy Stadium,Bangalore,4,5,51,82,9,0,62.2,Not Out,Yes,No,Yes,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+565820,11-09-2012,2012,T20,New Zealand,"MA Chidambaram Stadium, Chepauk",Chennai,2,2,70,41,10,1,170.73,caught,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+533281,23-09-2012,2012,T20,England,R Premadasa Stadium,Colombo,1,3,40,32,6,0,125,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+533287,28-09-2012,2012,T20,Australia,R Premadasa Stadium,Colombo,1,3,15,13,2,0,115.38,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+533291,30-09-2012,2012,T20,Pakistan,R Premadasa Stadium,Colombo,2,3,78,61,8,2,127.87,Not Out,Yes,No,Yes,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+533295,02-10-2012,2012,T20,South Africa,R Premadasa Stadium,Colombo,1,3,2,6,0,0,33.33,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+565806,15-11-2012,2012,Test,England,"Sardar Patel Stadium, Motera",Ahmedabad,1,5,19,67,3,0,28.36,bowled,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+565806,15-11-2012,2012,Test,England,"Sardar Patel Stadium, Motera",Ahmedabad,4,3,14,21,3,0,66.67,Not Out,Yes,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+565807,23-11-2012,2012,Test,England,Wankhede Stadium,Mumbai,1,5,19,55,3,0,34.55,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+565807,23-11-2012,2012,Test,England,Wankhede Stadium,Mumbai,3,5,7,13,1,0,53.85,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+565808,05-12-2012,2012,Test,England,Eden Gardens,Kolkata,1,5,6,24,1,0,25,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+565808,05-12-2012,2012,Test,England,Eden Gardens,Kolkata,3,5,20,60,3,0,33.33,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+565809,13-12-2012,2012,Test,England,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,2,5,103,295,11,0,34.92,lbw,No,Yes,No,No Result/Tie,No,Non-Captain,International captaincy tenure by format,Cricsheet
+565810,20-12-2012,2012,T20,England,Subrata Roy Sahara Stadium,Pune,2,3,21,17,2,0,123.53,bowled,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+565811,22-12-2012,2012,T20,England,Wankhede Stadium,Mumbai,1,3,38,20,7,0,190,lbw,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+589306,25-12-2012,2012,T20,Pakistan,M Chinnaswamy Stadium,Bangalore,1,3,9,11,1,0,81.82,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+589307,28-12-2012,2012,T20,Pakistan,"Sardar Patel Stadium, Motera",Ahmedabad,1,3,27,22,3,0,122.73,Not Out,Yes,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+589308,30-12-2012,2012,ODI,Pakistan,"MA Chidambaram Stadium, Chepauk",Chennai,1,3,0,5,0,0,0,bowled,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+589309,03-01-2013,2013,ODI,Pakistan,Eden Gardens,Kolkata,2,3,6,9,1,0,66.67,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+589310,06-01-2013,2013,ODI,Pakistan,Feroz Shah Kotla,Delhi,1,3,7,17,1,0,41.18,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+565812,11-01-2013,2013,ODI,England,Saurashtra Cricket Association Stadium,Rajkot,2,3,15,22,1,0,68.18,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+565813,15-01-2013,2013,ODI,England,Nehru Stadium,Kochi,1,3,37,54,1,1,68.52,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+565814,19-01-2013,2013,ODI,England,JSCA International Stadium Complex,Ranchi,2,3,77,79,9,2,97.47,Not Out,Yes,No,Yes,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+565815,23-01-2013,2013,ODI,England,"Punjab Cricket Association Stadium, Mohali",Chandigarh,2,3,26,33,3,0,78.79,caught and bowled,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+565816,27-01-2013,2013,ODI,England,Himachal Pradesh Cricket Association Stadium,Dharamsala,1,3,0,1,0,0,0,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+598812,22-02-2013,2013,Test,Australia,"MA Chidambaram Stadium, Chepauk",Chennai,2,5,107,206,15,1,51.94,caught,No,Yes,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+598813,02-03-2013,2013,Test,Australia,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,2,5,34,92,3,0,36.96,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+598814,14-03-2013,2013,Test,Australia,"Punjab Cricket Association Stadium, Mohali",Chandigarh,2,5,67,129,7,1,51.94,Not Out,Yes,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+598814,14-03-2013,2013,Test,Australia,"Punjab Cricket Association Stadium, Mohali",Chandigarh,4,3,34,61,6,0,55.74,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+598815,22-03-2013,2013,Test,Australia,Feroz Shah Kotla,Delhi,2,3,1,8,0,0,12.5,lbw,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+598815,22-03-2013,2013,Test,Australia,Feroz Shah Kotla,Delhi,4,3,41,60,4,0,68.33,lbw,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+578614,06-06-2013,2013,ODI,South Africa,Sophia Gardens,Cardiff,1,3,31,41,2,0,75.61,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+578619,11-06-2013,2013,ODI,West Indies,Kennington Oval,London,2,3,22,18,4,0,122.22,bowled,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+578623,15-06-2013,2013,ODI,Pakistan,Edgbaston,Birmingham,2,3,22,27,3,0,81.48,Not Out,Yes,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+566947,20-06-2013,2013,ODI,Sri Lanka,Sophia Gardens,Cardiff,2,3,58,64,4,1,90.62,Not Out,Yes,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+566948,23-06-2013,2013,ODI,England,Edgbaston,Birmingham,1,3,43,34,4,1,126.47,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+597924,30-06-2013,2013,ODI,West Indies,"Sabina Park, Kingston",Jamaica,1,3,11,21,0,1,52.38,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+597925,02-07-2013,2013,ODI,Sri Lanka,"Sabina Park, Kingston",Jamaica,2,4,2,5,0,0,40,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+597926,05-07-2013,2013,ODI,West Indies,"Queen's Park Oval, Port of Spain",Trinidad,1,3,102,83,13,2,122.89,caught,No,Yes,No,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+597928,09-07-2013,2013,ODI,Sri Lanka,"Queen's Park Oval, Port of Spain",Trinidad,1,3,31,52,4,0,59.62,lbw,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+597929,11-07-2013,2013,ODI,Sri Lanka,"Queen's Park Oval, Port of Spain",Trinidad,2,3,2,5,0,0,40,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+643665,24-07-2013,2013,ODI,Zimbabwe,Harare Sports Club,Harare,2,3,115,108,13,1,106.48,caught,No,Yes,No,Win,Yes,Non-Captain,International captaincy tenure by format,Derived from Venue
+643667,26-07-2013,2013,ODI,Zimbabwe,Harare Sports Club,Harare,1,3,14,18,3,0,77.78,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Derived from Venue
+643669,28-07-2013,2013,ODI,Zimbabwe,Harare Sports Club,Harare,2,3,68,88,5,1,77.27,Not Out,Yes,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Derived from Venue
+647247,10-10-2013,2013,T20,Australia,Saurashtra Cricket Association Stadium,Rajkot,2,4,29,22,2,1,131.82,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+647249,13-10-2013,2013,ODI,Australia,Maharashtra Cricket Association Stadium,Pune,2,3,61,85,6,0,71.76,lbw,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+647251,16-10-2013,2013,ODI,Australia,Sawai Mansingh Stadium,Jaipur,2,3,100,52,8,7,192.31,Not Out,Yes,Yes,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+647253,19-10-2013,2013,ODI,Australia,"Punjab Cricket Association Stadium, Mohali",Chandigarh,1,3,68,73,9,0,93.15,caught,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+647259,30-10-2013,2013,ODI,Australia,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,2,3,115,66,18,1,174.24,Not Out,Yes,Yes,No,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+647261,02-11-2013,2013,ODI,Australia,M Chinnaswamy Stadium,Bangalore,1,3,0,3,0,0,0,run out,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+676525,06-11-2013,2013,Test,West Indies,Eden Gardens,Kolkata,2,5,3,5,0,0,60,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+676527,14-11-2013,2013,Test,West Indies,Wankhede Stadium,Mumbai,2,5,57,78,5,0,73.08,caught,No,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+676529,21-11-2013,2013,ODI,West Indies,Nehru Stadium,Kochi,2,3,86,84,9,2,102.38,caught,No,No,Yes,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+676531,24-11-2013,2013,ODI,West Indies,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,1,3,99,100,9,0,99,caught,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+676533,27-11-2013,2013,ODI,West Indies,Green Park,Kanpur,2,3,19,18,3,0,105.56,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+648651,05-12-2013,2013,ODI,South Africa,New Wanderers Stadium,Johannesburg,2,3,31,35,5,0,88.57,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+648653,08-12-2013,2013,ODI,South Africa,Kingsmead,Durban,2,3,0,5,0,0,0,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+648665,18-12-2013,2013,Test,South Africa,New Wanderers Stadium,Johannesburg,1,4,119,181,18,0,65.75,caught,No,Yes,No,No Result/Tie,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+648665,18-12-2013,2013,Test,South Africa,New Wanderers Stadium,Johannesburg,3,4,96,193,9,0,49.74,caught,No,No,Yes,No Result/Tie,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+648667,26-12-2013,2013,Test,South Africa,Kingsmead,Durban,1,4,46,87,5,0,52.87,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+648667,26-12-2013,2013,Test,South Africa,Kingsmead,Durban,3,4,11,27,1,0,40.74,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+667641,19-01-2014,2014,ODI,New Zealand,McLean Park,Napier,2,3,123,111,11,2,110.81,caught,No,Yes,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+667643,22-01-2014,2014,ODI,New Zealand,Seddon Park,Hamilton,2,3,78,65,7,2,120,caught,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+667645,25-01-2014,2014,ODI,New Zealand,Eden Park,Auckland,2,3,6,20,1,0,30,caught,No,No,No,No Result/Tie,No,Non-Captain,International captaincy tenure by format,Cricsheet
+667647,28-01-2014,2014,ODI,New Zealand,Seddon Park,Hamilton,1,2,2,10,0,0,20,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+667649,31-01-2014,2014,ODI,New Zealand,Westpac Stadium,Wellington,2,3,82,78,7,3,105.13,caught,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+667651,06-02-2014,2014,Test,New Zealand,Eden Park,Auckland,2,4,4,13,1,0,30.77,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+667651,06-02-2014,2014,Test,New Zealand,Eden Park,Auckland,4,4,67,102,12,0,65.69,caught,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+667653,14-02-2014,2014,Test,New Zealand,Basin Reserve,Wellington,2,5,38,93,4,0,40.86,caught,No,No,No,No Result/Tie,No,Non-Captain,International captaincy tenure by format,Cricsheet
+667653,14-02-2014,2014,Test,New Zealand,Basin Reserve,Wellington,4,4,105,135,15,1,77.78,Not Out,Yes,Yes,No,No Result/Tie,No,Non-Captain,International captaincy tenure by format,Cricsheet
+710293,26-02-2014,2014,ODI,Bangladesh,Khan Shaheb Osman Ali Stadium,Fatullah,2,3,136,122,16,2,111.48,bowled,No,Yes,No,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+710297,28-02-2014,2014,ODI,Sri Lanka,Khan Shaheb Osman Ali Stadium,Fatullah,1,3,48,51,4,1,94.12,bowled,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+710301,02-03-2014,2014,ODI,Pakistan,Shere Bangla National Stadium,Mirpur,1,3,5,11,0,0,45.45,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+682921,21-03-2014,2014,T20,Pakistan,Shere Bangla National Stadium,Mirpur,2,3,36,32,4,1,112.5,Not Out,Yes,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+682929,23-03-2014,2014,T20,West Indies,Shere Bangla National Stadium,Mirpur,2,3,54,41,5,1,131.71,bowled,No,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+682943,28-03-2014,2014,T20,Bangladesh,Shere Bangla National Stadium,Mirpur,2,3,57,50,3,1,114,Not Out,Yes,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+682951,30-03-2014,2014,T20,Australia,Shere Bangla National Stadium,Mirpur,1,3,23,22,2,1,104.55,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+682963,04-04-2014,2014,T20,South Africa,Shere Bangla National Stadium,Mirpur,2,3,72,44,5,2,163.64,Not Out,Yes,No,Yes,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+682965,06-04-2014,2014,T20,Sri Lanka,Shere Bangla National Stadium,Mirpur,1,3,77,58,5,4,132.76,run out,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+667711,09-07-2014,2014,Test,England,Trent Bridge,Nottingham,1,4,1,8,0,0,12.5,caught,No,No,No,No Result/Tie,No,Non-Captain,International captaincy tenure by format,Cricsheet
+667711,09-07-2014,2014,Test,England,Trent Bridge,Nottingham,3,4,8,29,1,0,27.59,lbw,No,No,No,No Result/Tie,No,Non-Captain,International captaincy tenure by format,Cricsheet
+667713,17-07-2014,2014,Test,England,Lord's,London,1,4,25,34,4,0,73.53,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+667713,17-07-2014,2014,Test,England,Lord's,London,3,4,0,1,0,0,0,bowled,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+667715,27-07-2014,2014,Test,England,The Rose Bowl,Southampton,2,4,39,75,3,0,52,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+667715,27-07-2014,2014,Test,England,The Rose Bowl,Southampton,4,4,28,56,3,0,50,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+667717,07-08-2014,2014,Test,England,Old Trafford,Manchester,1,4,0,2,0,0,0,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+667717,07-08-2014,2014,Test,England,Old Trafford,Manchester,3,4,7,11,1,0,63.64,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+667719,15-08-2014,2014,Test,England,Kennington Oval,London,1,4,6,18,1,0,33.33,lbw,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+667719,15-08-2014,2014,Test,England,Kennington Oval,London,3,4,20,54,2,0,37.04,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+667723,27-08-2014,2014,ODI,England,Sophia Gardens,Cardiff,1,3,0,3,0,0,0,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+667725,30-08-2014,2014,ODI,England,Trent Bridge,Nottingham,2,3,40,50,2,1,80,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+667727,02-09-2014,2014,ODI,England,Edgbaston,Birmingham,2,3,1,3,0,0,33.33,Not Out,Yes,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+667729,05-09-2014,2014,ODI,England,Headingley,Leeds,2,3,13,21,2,0,61.9,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+667731,07-09-2014,2014,T20,England,Edgbaston,Birmingham,2,3,66,41,9,1,160.98,caught,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+770121,08-10-2014,2014,ODI,West Indies,Nehru Stadium,Kochi,2,3,2,5,0,0,40,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+770123,11-10-2014,2014,ODI,West Indies,Feroz Shah Kotla,Delhi,1,4,62,78,5,0,79.49,caught,No,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+770127,17-10-2014,2014,ODI,West Indies,Himachal Pradesh Cricket Association Stadium,Dharmasala,1,3,127,114,13,3,111.4,run out,No,Yes,No,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+792289,02-11-2014,2014,ODI,Sri Lanka,Barabati Stadium,Cuttack,1,4,22,21,2,0,104.76,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+792291,06-11-2014,2014,ODI,Sri Lanka,"Sardar Patel Stadium, Motera",Ahmedabad,2,4,49,44,2,2,111.36,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+792293,09-11-2014,2014,ODI,Sri Lanka,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,2,4,53,61,4,1,86.89,caught,No,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+792295,13-11-2014,2014,ODI,Sri Lanka,Eden Gardens,Kolkata,1,4,66,64,6,0,103.12,run out,No,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+792297,16-11-2014,2014,ODI,Sri Lanka,JSCA International Stadium Complex,Ranchi,2,4,139,126,12,3,110.32,Not Out,Yes,Yes,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+754737,09-12-2014,2014,Test,Australia,Adelaide Oval,Adelaide,2,4,115,184,12,0,62.5,caught,No,Yes,No,Loss,No,Captain,International captaincy tenure by format,Derived from Venue
+754737,09-12-2014,2014,Test,Australia,Adelaide Oval,Adelaide,4,4,141,175,16,1,80.57,caught,No,Yes,No,Loss,No,Captain,International captaincy tenure by format,Derived from Venue
+754739,17-12-2014,2014,Test,Australia,"Brisbane Cricket Ground, Woolloongabba",Brisbane,1,4,19,27,1,0,70.37,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+754739,17-12-2014,2014,Test,Australia,"Brisbane Cricket Ground, Woolloongabba",Brisbane,3,4,1,11,0,0,9.09,bowled,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+754741,26-12-2014,2014,Test,Australia,Melbourne Cricket Ground,Melbourne,2,4,169,272,18,0,62.13,caught,No,Yes,No,No Result/Tie,No,Captain,International captaincy tenure by format,Derived from Venue
+754741,26-12-2014,2014,Test,Australia,Melbourne Cricket Ground,Melbourne,4,4,54,99,7,0,54.55,caught,No,No,Yes,No Result/Tie,No,Captain,International captaincy tenure by format,Derived from Venue
+754743,06-01-2015,2015,Test,Australia,Sydney Cricket Ground,Sydney,2,4,147,230,20,0,63.91,caught,No,Yes,No,No Result/Tie,No,Captain,International captaincy tenure by format,Derived from Venue
+754743,06-01-2015,2015,Test,Australia,Sydney Cricket Ground,Sydney,4,4,46,95,3,0,48.42,caught,No,No,No,No Result/Tie,No,Captain,International captaincy tenure by format,Derived from Venue
+754749,18-01-2015,2015,ODI,Australia,Melbourne Cricket Ground,Melbourne,1,4,9,16,0,0,56.25,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Derived from Venue
+754753,20-01-2015,2015,ODI,England,"Brisbane Cricket Ground, Woolloongabba",Brisbane,1,4,4,8,0,0,50,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+754757,26-01-2015,2015,ODI,Australia,Sydney Cricket Ground,Sydney,1,4,3,9,0,0,33.33,Not Out,Yes,No,No,No Result/Tie,No,Non-Captain,International captaincy tenure by format,Derived from Venue
+754759,30-01-2015,2015,ODI,England,Western Australia Cricket Association Ground,Perth,1,3,8,19,0,0,42.11,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+656405,15-02-2015,2015,ODI,Pakistan,Adelaide Oval,Adelaide,1,3,107,126,8,0,84.92,caught,No,Yes,No,Win,Yes,Non-Captain,International captaincy tenure by format,Derived from Venue
+656423,22-02-2015,2015,ODI,South Africa,Melbourne Cricket Ground,Melbourne,1,3,46,60,3,0,76.67,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Derived from Venue
+656439,28-02-2015,2015,ODI,United Arab Emirates,Western Australia Cricket Association Ground,Perth,2,3,33,41,5,0,80.49,Not Out,Yes,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+656453,06-03-2015,2015,ODI,West Indies,Western Australia Cricket Association Ground,Perth,2,3,33,36,5,0,91.67,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+656465,10-03-2015,2015,ODI,Ireland,Seddon Park,Hamilton,2,3,44,42,4,1,104.76,Not Out,Yes,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+656475,14-03-2015,2015,ODI,Zimbabwe,Eden Park,Auckland,2,3,38,48,4,0,79.17,bowled,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+656485,19-03-2015,2015,ODI,Bangladesh,Melbourne Cricket Ground,Melbourne,1,3,3,8,0,0,37.5,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Derived from Venue
+656493,26-03-2015,2015,ODI,Australia,Sydney Cricket Ground,Sydney,2,3,1,13,0,0,7.69,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Derived from Venue
+870729,10-06-2015,2015,Test,Bangladesh,Khan Shaheb Osman Ali Stadium,Fatullah,1,4,14,22,2,0,63.64,bowled,No,No,No,No Result/Tie,No,Captain,International captaincy tenure by format,Cricsheet
+870731,18-06-2015,2015,ODI,Bangladesh,Shere Bangla National Stadium,Mirpur,2,3,1,4,0,0,25,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+870733,21-06-2015,2015,ODI,Bangladesh,Shere Bangla National Stadium,Mirpur,1,3,23,27,3,1,85.19,lbw,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+870735,24-06-2015,2015,ODI,Bangladesh,Shere Bangla National Stadium,Mirpur,1,3,25,35,1,0,71.43,bowled,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+895773,12-08-2015,2015,Test,Sri Lanka,Galle International Stadium,Galle,2,4,103,191,11,0,53.93,lbw,No,Yes,No,Loss,No,Captain,International captaincy tenure by format,Manually Verified
+895773,12-08-2015,2015,Test,Sri Lanka,Galle International Stadium,Galle,4,5,3,10,0,0,30,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Manually Verified
+895775,20-08-2015,2015,Test,Sri Lanka,P Sara Oval,Colombo,1,4,78,107,8,1,72.9,caught,No,No,Yes,Win,No,Captain,International captaincy tenure by format,Cricsheet
+895775,20-08-2015,2015,Test,Sri Lanka,P Sara Oval,Colombo,3,4,10,19,0,0,52.63,lbw,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+895777,28-08-2015,2015,Test,Sri Lanka,Sinhalese Sports Club Ground,Colombo,1,4,18,60,3,0,30,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+895777,28-08-2015,2015,Test,Sri Lanka,Sinhalese Sports Club Ground,Colombo,3,4,21,63,2,0,33.33,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+903587,02-10-2015,2015,T20,South Africa,Himachal Pradesh Cricket Association Stadium,Dharmasala,1,3,43,27,1,3,159.26,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+903589,05-10-2015,2015,T20,South Africa,Barabati Stadium,Cuttack,1,3,1,1,0,0,100,run out,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+903593,11-10-2015,2015,ODI,South Africa,Green Park,Kanpur,2,4,11,18,0,0,61.11,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+903595,14-10-2015,2015,ODI,South Africa,Holkar Cricket Stadium,Indore,1,4,12,18,0,0,66.67,Not Out,Yes,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+903597,18-10-2015,2015,ODI,South Africa,Saurashtra Cricket Association Stadium,Rajkot,2,3,77,99,5,0,77.78,caught,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+903599,22-10-2015,2015,ODI,South Africa,"MA Chidambaram Stadium, Chepauk",Chennai,1,3,138,140,6,5,98.57,caught,No,Yes,No,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+903601,25-10-2015,2015,ODI,South Africa,Wankhede Stadium,Mumbai,2,3,7,6,0,1,116.67,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+903603,05-11-2015,2015,Test,South Africa,"Punjab Cricket Association Stadium, Mohali",Chandigarh,1,4,1,4,0,0,25,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+903603,05-11-2015,2015,Test,South Africa,"Punjab Cricket Association Stadium, Mohali",Chandigarh,3,4,29,71,4,0,40.85,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+903607,25-11-2015,2015,Test,South Africa,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,1,4,22,55,2,0,40,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+903607,25-11-2015,2015,Test,South Africa,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,3,4,16,30,2,0,53.33,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+903609,03-12-2015,2015,Test,South Africa,Feroz Shah Kotla,Delhi,1,4,44,62,7,0,70.97,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+903609,03-12-2015,2015,Test,South Africa,Feroz Shah Kotla,Delhi,3,5,88,165,10,0,53.33,lbw,No,No,Yes,Win,No,Captain,International captaincy tenure by format,Cricsheet
+895807,12-01-2016,2016,ODI,Australia,Western Australia Cricket Association Ground,Perth,1,3,91,97,9,1,93.81,caught,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+895809,15-01-2016,2016,ODI,Australia,"Brisbane Cricket Ground, Woolloongabba",Brisbane,1,3,59,67,4,0,88.06,run out,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+895811,17-01-2016,2016,ODI,Australia,Melbourne Cricket Ground,Melbourne,1,3,117,117,7,2,100,caught,No,Yes,No,Loss,No,Non-Captain,International captaincy tenure by format,Derived from Venue
+895813,20-01-2016,2016,ODI,Australia,Manuka Oval,Canberra,2,3,106,92,11,1,115.22,caught,No,Yes,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+895815,23-01-2016,2016,ODI,Australia,Sydney Cricket Ground,Sydney,2,3,8,11,1,0,72.73,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Derived from Venue
+895817,26-01-2016,2016,T20,Australia,Adelaide Oval,Adelaide,1,3,90,55,9,2,163.64,Not Out,Yes,No,Yes,Win,Yes,Non-Captain,International captaincy tenure by format,Derived from Venue
+895819,29-01-2016,2016,T20,Australia,Melbourne Cricket Ground,Melbourne,1,3,59,33,7,1,178.79,Not Out,Yes,No,Yes,Win,Yes,Non-Captain,International captaincy tenure by format,Derived from Venue
+895821,31-01-2016,2016,T20,Australia,Sydney Cricket Ground,Sydney,2,3,50,36,2,1,138.89,bowled,No,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Derived from Venue
+966745,24-02-2016,2016,T20,Bangladesh,Shere Bangla National Stadium,Dhaka,1,3,7,12,1,0,58.33,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+966751,27-02-2016,2016,T20,Pakistan,Shere Bangla National Stadium,Mirpur,2,3,49,51,7,0,96.08,lbw,No,No,No,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+966757,01-03-2016,2016,T20,Sri Lanka,Shere Bangla National Stadium,Mirpur,2,3,56,47,7,0,119.15,Not Out,Yes,No,Yes,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+966765,06-03-2016,2016,T20,Bangladesh,Shere Bangla National Stadium,Mirpur,2,3,41,28,5,0,146.43,Not Out,Yes,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+951329,15-03-2016,2016,T20,New Zealand,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,2,3,23,27,2,0,85.19,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+951341,19-03-2016,2016,T20,Pakistan,Eden Gardens,Kolkata,2,3,55,37,7,1,148.65,Not Out,Yes,No,Yes,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+951353,23-03-2016,2016,T20,Bangladesh,M Chinnaswamy Stadium,Bangalore,1,3,24,24,0,1,100,bowled,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+951363,27-03-2016,2016,T20,Australia,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,2,3,82,51,9,2,160.78,Not Out,Yes,No,Yes,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+951371,31-03-2016,2016,T20,West Indies,Wankhede Stadium,Mumbai,1,3,89,47,11,1,189.36,Not Out,Yes,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1022593,21-07-2016,2016,Test,West Indies,"Sir Vivian Richards Stadium, North Sound",Antigua,1,4,200,283,24,0,70.67,bowled,No,Yes,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1022595,30-07-2016,2016,Test,West Indies,"Sabina Park, Kingston",Jamaica,2,4,44,90,4,1,48.89,caught,No,No,No,No Result/Tie,No,Captain,International captaincy tenure by format,Cricsheet
+1022597,09-08-2016,2016,Test,West Indies,"Darren Sammy National Cricket Stadium, Gros Islet",St Lucia,1,3,3,8,0,0,37.5,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1022597,09-08-2016,2016,Test,West Indies,"Darren Sammy National Cricket Stadium, Gros Islet",St Lucia,3,3,4,17,0,0,23.53,lbw,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1041615,27-08-2016,2016,T20,West Indies,Central Broward Regional Park Stadium Turf Ground,Lauderhill,2,3,16,9,3,0,177.78,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1030213,22-09-2016,2016,Test,New Zealand,Green Park,Kanpur,1,4,9,10,2,0,90,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1030213,22-09-2016,2016,Test,New Zealand,Green Park,Kanpur,3,4,18,40,3,0,45,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1030215,30-09-2016,2016,Test,New Zealand,Eden Gardens,Kolkata,1,4,9,28,1,0,32.14,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1030215,30-09-2016,2016,Test,New Zealand,Eden Gardens,Kolkata,3,4,45,65,7,0,69.23,lbw,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1030217,08-10-2016,2016,Test,New Zealand,Holkar Cricket Stadium,Indore,1,4,211,366,20,0,57.65,lbw,No,Yes,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1030217,08-10-2016,2016,Test,New Zealand,Holkar Cricket Stadium,Indore,3,4,17,28,1,0,60.71,lbw,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1030219,16-10-2016,2016,ODI,New Zealand,Himachal Pradesh Cricket Association Stadium,Dharmasala,2,3,85,81,9,1,104.94,Not Out,Yes,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1030221,20-10-2016,2016,ODI,New Zealand,Feroz Shah Kotla,Delhi,2,3,9,13,1,0,69.23,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1030223,23-10-2016,2016,ODI,New Zealand,"Punjab Cricket Association Stadium, Mohali",Chandigarh,2,3,154,134,16,1,114.93,Not Out,Yes,Yes,No,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+1030225,26-10-2016,2016,ODI,New Zealand,JSCA International Stadium Complex,Ranchi,2,3,45,51,2,1,88.24,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1030227,29-10-2016,2016,ODI,New Zealand,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,1,3,65,76,2,1,85.53,caught,No,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1034809,09-11-2016,2016,Test,England,Saurashtra Cricket Association Stadium,Rajkot,2,4,40,95,5,0,42.11,hit wicket,No,No,No,No Result/Tie,No,Captain,International captaincy tenure by format,Cricsheet
+1034809,09-11-2016,2016,Test,England,Saurashtra Cricket Association Stadium,Rajkot,4,4,49,98,6,0,50,Not Out,Yes,No,No,No Result/Tie,No,Captain,International captaincy tenure by format,Cricsheet
+1034811,17-11-2016,2016,Test,England,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,1,4,167,267,18,0,62.55,caught,No,Yes,No,Win,Yes,Captain,International captaincy tenure by format,Cricsheet
+1034811,17-11-2016,2016,Test,England,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,3,4,81,109,8,0,74.31,caught,No,No,Yes,Win,Yes,Captain,International captaincy tenure by format,Cricsheet
+1034813,26-11-2016,2016,Test,England,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,2,4,62,127,9,0,48.82,caught,No,No,Yes,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1034813,26-11-2016,2016,Test,England,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,4,4,6,11,0,0,54.55,Not Out,Yes,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1034815,08-12-2016,2016,Test,England,Wankhede Stadium,Mumbai,2,4,235,340,25,1,69.12,caught,No,Yes,No,Win,Yes,Captain,International captaincy tenure by format,Cricsheet
+1034817,16-12-2016,2016,Test,England,"MA Chidambaram Stadium, Chepauk",Chennai,2,4,15,29,1,0,51.72,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1034819,15-01-2017,2017,ODI,England,Maharashtra Cricket Association Stadium,Pune,2,3,122,105,8,5,116.19,caught,No,Yes,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1034821,19-01-2017,2017,ODI,England,Barabati Stadium,Cuttack,1,3,8,5,2,0,160,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1034823,22-01-2017,2017,ODI,England,Eden Gardens,Kolkata,2,3,55,63,8,0,87.3,caught,No,No,Yes,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1034825,26-01-2017,2017,T20,England,Green Park,Kanpur,1,1,29,26,4,0,111.54,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1034827,29-01-2017,2017,T20,England,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,1,1,21,15,2,1,140,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1034829,01-02-2017,2017,T20,England,M Chinnaswamy Stadium,Bangalore,1,1,2,4,0,0,50,run out,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1041761,09-02-2017,2017,Test,Bangladesh,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,1,4,204,246,24,0,82.93,lbw,No,Yes,No,Win,Yes,Captain,International captaincy tenure by format,Cricsheet
+1041761,09-02-2017,2017,Test,Bangladesh,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,3,4,38,40,2,1,95,caught,No,No,No,Win,Yes,Captain,International captaincy tenure by format,Cricsheet
+1062573,23-02-2017,2017,Test,Australia,Maharashtra Cricket Association Stadium,Pune,2,4,0,2,0,0,0,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1062573,23-02-2017,2017,Test,Australia,Maharashtra Cricket Association Stadium,Pune,4,4,13,37,1,0,35.14,bowled,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1062574,04-03-2017,2017,Test,Australia,M Chinnaswamy Stadium,Bengaluru,1,4,12,17,2,0,70.59,lbw,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1062574,04-03-2017,2017,Test,Australia,M Chinnaswamy Stadium,Bengaluru,3,4,15,25,1,0,60,lbw,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1062575,16-03-2017,2017,Test,Australia,JSCA International Stadium Complex,Ranchi,2,4,6,23,0,0,26.09,caught,No,No,No,No Result/Tie,No,Captain,International captaincy tenure by format,Cricsheet
+1022353,04-06-2017,2017,ODI,Pakistan,Edgbaston,Birmingham,1,3,81,68,6,3,119.12,Not Out,Yes,No,Yes,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1022361,08-06-2017,2017,ODI,Sri Lanka,Kennington Oval,London,1,3,0,5,0,0,0,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1022367,11-06-2017,2017,ODI,South Africa,Kennington Oval,London,2,3,76,101,7,1,75.25,Not Out,Yes,No,Yes,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1022373,15-06-2017,2017,ODI,Bangladesh,Edgbaston,Birmingham,2,3,96,78,13,0,123.08,Not Out,Yes,No,Yes,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1022375,18-06-2017,2017,ODI,Pakistan,Kennington Oval,London,2,3,5,9,0,0,55.56,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1098206,23-06-2017,2017,ODI,West Indies,"Queen's Park Oval, Port of Spain",Trinidad,1,3,32,47,1,0,68.09,Not Out,Yes,No,No,No Result/Tie,No,Captain,International captaincy tenure by format,Cricsheet
+1098207,25-06-2017,2017,ODI,West Indies,"Queen's Park Oval, Port of Spain",Trinidad,1,3,87,66,4,4,131.82,caught,No,No,Yes,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1098208,30-06-2017,2017,ODI,West Indies,"Sir Vivian Richards Stadium, North Sound",Antigua,1,3,11,22,2,0,50,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1098209,02-07-2017,2017,ODI,West Indies,"Sir Vivian Richards Stadium, North Sound",Antigua,2,3,3,12,0,0,25,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1098210,06-07-2017,2017,ODI,West Indies,"Sabina Park, Kingston",Jamaica,2,3,111,115,12,2,96.52,Not Out,Yes,Yes,No,Win,Yes,Captain,International captaincy tenure by format,Cricsheet
+1098211,09-07-2017,2017,T20,West Indies,"Sabina Park, Kingston",Jamaica,1,1,39,22,7,1,177.27,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1109602,26-07-2017,2017,Test,Sri Lanka,Galle International Stadium,Galle,1,4,3,8,0,0,37.5,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Manually Verified
+1109602,26-07-2017,2017,Test,Sri Lanka,Galle International Stadium,Galle,3,4,103,136,5,1,75.74,Not Out,Yes,Yes,No,Win,No,Captain,International captaincy tenure by format,Manually Verified
+1109603,03-08-2017,2017,Test,Sri Lanka,Sinhalese Sports Club Ground,Colombo,1,4,13,29,2,0,44.83,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1109604,12-08-2017,2017,Test,Sri Lanka,Pallekele International Cricket Stadium,Kandy,1,4,42,84,3,0,50,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Derived from Venue
+1109605,20-08-2017,2017,ODI,Sri Lanka,Rangiri Dambulla International Stadium,Dambulla,2,3,82,70,10,1,117.14,Not Out,Yes,No,Yes,Win,No,Captain,International captaincy tenure by format,Manually Verified
+1109606,24-08-2017,2017,ODI,Sri Lanka,Pallekele International Cricket Stadium,Kandy,2,5,4,2,1,0,200,bowled,No,No,No,Win,No,Captain,International captaincy tenure by format,Derived from Venue
+1109607,27-08-2017,2017,ODI,Sri Lanka,Pallekele International Cricket Stadium,Kandy,2,3,3,11,0,0,27.27,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Derived from Venue
+1109608,31-08-2017,2017,ODI,Sri Lanka,"R.Premadasa Stadium, Khettarama",Colombo,1,3,131,96,17,2,136.46,caught,No,Yes,No,Win,Yes,Captain,International captaincy tenure by format,Cricsheet
+1109609,03-09-2017,2017,ODI,Sri Lanka,"R.Premadasa Stadium, Khettarama",Colombo,2,3,110,116,9,0,94.83,Not Out,Yes,Yes,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1109610,06-09-2017,2017,T20,Sri Lanka,"R.Premadasa Stadium, Khettarama",Colombo,2,3,82,54,7,1,151.85,caught,No,No,Yes,Win,Yes,Captain,International captaincy tenure by format,Cricsheet
+1119496,17-09-2017,2017,ODI,Australia,"MA Chidambaram Stadium, Chepauk",Chennai,1,3,0,4,0,0,0,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1119497,21-09-2017,2017,ODI,Australia,Eden Gardens,Kolkata,1,3,92,107,8,0,85.98,bowled,No,No,Yes,Win,Yes,Captain,International captaincy tenure by format,Cricsheet
+1119498,24-09-2017,2017,ODI,Australia,Holkar Cricket Stadium,Indore,2,3,28,35,2,0,80,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1119499,28-09-2017,2017,ODI,Australia,M.Chinnaswamy Stadium,Bengaluru,2,3,21,21,3,0,100,bowled,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1119500,01-10-2017,2017,ODI,Australia,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,2,3,39,55,2,0,70.91,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1119501,07-10-2017,2017,T20,Australia,JSCA International Stadium Complex,Ranchi,2,3,22,14,3,0,157.14,Not Out,Yes,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1119502,10-10-2017,2017,T20,Australia,Barsapara Cricket Stadium,Guwahati,1,3,0,2,0,0,0,caught and bowled,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1120090,22-10-2017,2017,ODI,New Zealand,Wankhede Stadium,Mumbai,1,3,121,125,9,2,96.8,caught,No,Yes,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1120091,25-10-2017,2017,ODI,New Zealand,Maharashtra Cricket Association Stadium,Pune,2,3,29,29,3,1,100,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1120092,29-10-2017,2017,ODI,New Zealand,Green Park,Kanpur,1,3,113,106,9,1,106.6,caught,No,Yes,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1120093,01-11-2017,2017,T20,New Zealand,Arun Jaitley Stadium,Delhi,1,4,26,11,0,3,236.36,Not Out,Yes,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1120094,04-11-2017,2017,T20,New Zealand,Saurashtra Cricket Association Stadium,Rajkot,2,4,65,42,8,1,154.76,caught,No,No,Yes,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1120095,07-11-2017,2017,T20,New Zealand,Greenfield International Stadium,Thiruvananthapuram,1,3,13,6,1,1,216.67,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1122723,16-11-2017,2017,Test,Sri Lanka,Eden Gardens,Kolkata,1,4,0,11,0,0,0,lbw,No,No,No,No Result/Tie,No,Captain,International captaincy tenure by format,Cricsheet
+1122723,16-11-2017,2017,Test,Sri Lanka,Eden Gardens,Kolkata,3,4,104,119,12,2,87.39,Not Out,Yes,Yes,No,No Result/Tie,No,Captain,International captaincy tenure by format,Cricsheet
+1122724,24-11-2017,2017,Test,Sri Lanka,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,2,4,213,267,18,2,79.78,caught,No,Yes,No,Win,Yes,Captain,International captaincy tenure by format,Cricsheet
+1122725,02-12-2017,2017,Test,Sri Lanka,Arun Jaitley Stadium,Delhi,1,4,243,287,25,0,84.67,lbw,No,Yes,No,No Result/Tie,Yes,Captain,International captaincy tenure by format,Cricsheet
+1122725,02-12-2017,2017,Test,Sri Lanka,Arun Jaitley Stadium,Delhi,3,5,50,58,3,0,86.21,caught,No,No,Yes,No Result/Tie,Yes,Captain,International captaincy tenure by format,Cricsheet
+1122276,05-01-2018,2018,Test,South Africa,Newlands,Cape Town,2,4,5,13,0,0,38.46,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1122276,05-01-2018,2018,Test,South Africa,Newlands,Cape Town,4,4,28,40,4,0,70,lbw,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1122277,13-01-2018,2018,Test,South Africa,SuperSport Park,Centurion,2,4,153,217,15,0,70.51,caught,No,Yes,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1122277,13-01-2018,2018,Test,South Africa,SuperSport Park,Centurion,4,4,5,20,1,0,25,lbw,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1122278,24-01-2018,2018,Test,South Africa,The Wanderers Stadium,Johannesburg,1,4,54,106,9,0,50.94,caught,No,No,Yes,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1122278,24-01-2018,2018,Test,South Africa,The Wanderers Stadium,Johannesburg,3,5,41,79,6,0,51.9,bowled,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1122279,01-02-2018,2018,ODI,South Africa,Kingsmead,Durban,2,3,112,119,10,0,94.12,caught,No,Yes,No,Win,Yes,Captain,International captaincy tenure by format,Cricsheet
+1122280,04-02-2018,2018,ODI,South Africa,SuperSport Park,Centurion,2,3,46,50,4,1,92,Not Out,Yes,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1122281,07-02-2018,2018,ODI,South Africa,Newlands,Cape Town,1,3,160,159,12,2,100.63,Not Out,Yes,Yes,No,Win,Yes,Captain,International captaincy tenure by format,Cricsheet
+1122282,10-02-2018,2018,ODI,South Africa,The Wanderers Stadium,Johannesburg,1,3,75,83,7,1,90.36,caught,No,No,Yes,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1122283,13-02-2018,2018,ODI,South Africa,St George's Park,Port Elizabeth,1,3,36,54,2,0,66.67,Not Out,Yes,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1122284,16-02-2018,2018,ODI,South Africa,SuperSport Park,Centurion,2,3,129,96,19,2,134.38,Not Out,Yes,Yes,No,Win,Yes,Captain,International captaincy tenure by format,Cricsheet
+1122285,18-02-2018,2018,T20,South Africa,The Wanderers Stadium,Johannesburg,1,4,26,20,2,1,130,lbw,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1122286,21-02-2018,2018,T20,South Africa,SuperSport Park,Centurion,1,4,1,5,0,0,20,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1140992,27-06-2018,2018,T20,Ireland,"The Village, Malahide",Dublin,1,6,0,2,0,0,0,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1140993,29-06-2018,2018,T20,Ireland,"The Village, Malahide",Dublin,1,2,9,8,1,0,112.5,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1119543,03-07-2018,2018,T20,England,Old Trafford,Manchester,2,4,20,22,0,1,90.91,Not Out,Yes,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1119544,06-07-2018,2018,T20,England,Sophia Gardens,Cardiff,1,4,47,38,1,2,123.68,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1119545,08-07-2018,2018,T20,England,County Ground,Bristol,2,4,43,29,2,2,148.28,caught and bowled,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1119546,12-07-2018,2018,ODI,England,Trent Bridge,Nottingham,2,3,75,82,7,0,91.46,stumped,No,No,Yes,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1119547,14-07-2018,2018,ODI,England,Lord's,London,2,3,45,56,2,0,80.36,lbw,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1119548,17-07-2018,2018,ODI,England,Headingley,Leeds,1,3,71,72,8,0,98.61,bowled,No,No,Yes,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1119549,01-08-2018,2018,Test,England,Edgbaston,Birmingham,2,4,149,225,22,1,66.22,caught,No,Yes,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1119549,01-08-2018,2018,Test,England,Edgbaston,Birmingham,4,4,51,93,4,0,54.84,lbw,No,No,Yes,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1119550,09-08-2018,2018,Test,England,Lord's,London,1,4,23,57,2,0,40.35,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1119550,09-08-2018,2018,Test,England,Lord's,London,3,5,17,29,2,0,58.62,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1119551,18-08-2018,2018,Test,England,Trent Bridge,Nottingham,1,4,97,152,11,0,63.82,caught,No,No,Yes,Win,Yes,Captain,International captaincy tenure by format,Cricsheet
+1119551,18-08-2018,2018,Test,England,Trent Bridge,Nottingham,3,4,103,197,10,0,52.28,lbw,No,Yes,No,Win,Yes,Captain,International captaincy tenure by format,Cricsheet
+1119552,30-08-2018,2018,Test,England,The Rose Bowl,Southampton,2,4,46,71,6,0,64.79,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1119552,30-08-2018,2018,Test,England,The Rose Bowl,Southampton,4,4,58,130,4,0,44.62,caught,No,No,Yes,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1119553,07-09-2018,2018,Test,England,Kennington Oval,London,2,4,49,70,6,0,70,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1119553,07-09-2018,2018,Test,England,Kennington Oval,London,4,4,0,1,0,0,0,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1157752,04-10-2018,2018,Test,West Indies,Saurashtra Cricket Association Stadium,Rajkot,1,4,139,230,10,0,60.43,caught,No,Yes,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1157753,12-10-2018,2018,Test,West Indies,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,2,4,45,78,5,0,57.69,lbw,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1157754,21-10-2018,2018,ODI,West Indies,Barsapara Cricket Stadium,Guwahati,2,3,140,107,21,2,130.84,stumped,No,Yes,No,Win,Yes,Captain,International captaincy tenure by format,Cricsheet
+1157755,24-10-2018,2018,ODI,West Indies,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,1,3,157,129,13,4,121.71,Not Out,Yes,Yes,No,No Result/Tie,Yes,Captain,International captaincy tenure by format,Cricsheet
+1157756,27-10-2018,2018,ODI,West Indies,Maharashtra Cricket Association Stadium,Pune,2,3,107,119,10,1,89.92,bowled,No,Yes,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1157757,29-10-2018,2018,ODI,West Indies,Brabourne Stadium,Mumbai,1,3,16,17,2,0,94.12,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1157758,01-11-2018,2018,ODI,West Indies,Greenfield International Stadium,Thiruvananthapuram,2,3,33,29,6,0,113.79,Not Out,Yes,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1144990,21-11-2018,2018,T20,Australia,"Brisbane Cricket Ground, Woolloongabba",Brisbane,2,4,4,8,0,0,50,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1144992,25-11-2018,2018,T20,Australia,Sydney Cricket Ground,Sydney,2,3,61,41,4,2,148.78,Not Out,Yes,No,Yes,Win,No,Captain,International captaincy tenure by format,Derived from Venue
+1144993,06-12-2018,2018,Test,Australia,Adelaide Oval,Adelaide,1,4,3,16,0,0,18.75,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Derived from Venue
+1144993,06-12-2018,2018,Test,Australia,Adelaide Oval,Adelaide,3,4,34,104,3,0,32.69,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Derived from Venue
+1144994,14-12-2018,2018,Test,Australia,Perth Stadium,Perth,2,4,123,257,13,1,47.86,caught,No,Yes,No,Loss,No,Captain,International captaincy tenure by format,Derived from Venue
+1144994,14-12-2018,2018,Test,Australia,Perth Stadium,Perth,4,4,17,40,2,0,42.5,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Derived from Venue
+1144995,26-12-2018,2018,Test,Australia,Melbourne Cricket Ground,Melbourne,1,4,82,204,9,0,40.2,caught,No,No,Yes,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1144995,26-12-2018,2018,Test,Australia,Melbourne Cricket Ground,Melbourne,3,4,0,4,0,0,0,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1144996,03-01-2019,2019,Test,Australia,Sydney Cricket Ground,Sydney,1,4,23,59,4,0,38.98,caught,No,No,No,No Result/Tie,No,Captain,International captaincy tenure by format,Cricsheet
+1144997,12-01-2019,2019,ODI,Australia,Sydney Cricket Ground,Sydney,2,3,3,8,0,0,37.5,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1144998,15-01-2019,2019,ODI,Australia,Adelaide Oval,Adelaide,2,3,104,112,5,2,92.86,caught,No,Yes,No,Win,Yes,Captain,International captaincy tenure by format,Cricsheet
+1144999,18-01-2019,2019,ODI,Australia,Melbourne Cricket Ground,Melbourne,2,3,46,62,3,0,74.19,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1153691,23-01-2019,2019,ODI,New Zealand,McLean Park,Napier,2,3,45,59,3,0,76.27,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1153692,26-01-2019,2019,ODI,New Zealand,Bay Oval,Mount Maunganui,1,3,43,45,5,0,95.56,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1153693,28-01-2019,2019,ODI,New Zealand,Bay Oval,Mount Maunganui,2,3,60,74,6,1,81.08,caught,No,No,Yes,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1168247,24-02-2019,2019,T20,Australia,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,1,3,24,17,3,0,141.18,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1168248,27-02-2019,2019,T20,Australia,M.Chinnaswamy Stadium,Bengaluru,1,3,72,38,2,6,189.47,Not Out,Yes,No,Yes,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1168242,02-03-2019,2019,ODI,Australia,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,2,3,44,45,6,1,97.78,lbw,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1168243,05-03-2019,2019,ODI,Australia,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,1,3,116,120,10,0,96.67,caught,No,Yes,No,Win,Yes,Captain,International captaincy tenure by format,Cricsheet
+1168244,08-03-2019,2019,ODI,Australia,JSCA International Stadium Complex,Ranchi,2,3,123,95,16,1,129.47,bowled,No,Yes,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1168245,10-03-2019,2019,ODI,Australia,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,1,4,7,6,1,0,116.67,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1168246,13-03-2019,2019,ODI,Australia,Arun Jaitley Stadium,Delhi,2,3,20,22,2,0,90.91,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1144490,05-06-2019,2019,ODI,South Africa,The Rose Bowl,Southampton,2,3,18,34,1,0,52.94,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1144496,09-06-2019,2019,ODI,Australia,Kennington Oval,London,1,3,82,77,4,2,106.49,caught,No,No,Yes,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1144504,16-06-2019,2019,ODI,Pakistan,Old Trafford,Manchester,1,3,77,65,7,0,118.46,caught,No,No,Yes,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1144516,27-06-2019,2019,ODI,West Indies,Old Trafford,Manchester,1,3,72,82,8,0,87.8,caught,No,No,Yes,Win,Yes,Captain,International captaincy tenure by format,Cricsheet
+1144520,30-06-2019,2019,ODI,England,Edgbaston,Birmingham,2,3,66,76,7,0,86.84,caught,No,No,Yes,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1144522,02-07-2019,2019,ODI,Bangladesh,Edgbaston,Birmingham,1,3,26,27,3,0,96.3,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1144526,06-07-2019,2019,ODI,Sri Lanka,Headingley,Leeds,2,3,34,41,3,0,82.93,Not Out,Yes,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1144528,09-07-2019,2019,ODI,New Zealand,Old Trafford,Manchester,2,3,1,6,0,0,16.67,lbw,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1188621,03-08-2019,2019,T20,West Indies,Central Broward Regional Park Stadium Turf Ground,Lauderhill,2,3,19,29,1,0,65.52,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1188622,04-08-2019,2019,T20,West Indies,Central Broward Regional Park Stadium Turf Ground,Lauderhill,1,3,28,23,1,1,121.74,bowled,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1188623,06-08-2019,2019,T20,West Indies,"Providence Stadium, Guyana",Providence,2,3,59,45,6,0,131.11,caught,No,No,Yes,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1188625,11-08-2019,2019,ODI,West Indies,"Queen's Park Oval, Trinidad",Port of Spain,1,3,120,125,14,1,96,caught,No,Yes,No,Win,Yes,Captain,International captaincy tenure by format,Cricsheet
+1188626,14-08-2019,2019,ODI,West Indies,"Queen's Park Oval, Trinidad",Port of Spain,2,3,114,99,14,0,115.15,Not Out,Yes,Yes,No,Win,Yes,Captain,International captaincy tenure by format,Cricsheet
+1188628,22-08-2019,2019,Test,West Indies,"Sir Vivian Richards Stadium, Antigua",North Sound,1,4,9,12,2,0,75,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1188628,22-08-2019,2019,Test,West Indies,"Sir Vivian Richards Stadium, Antigua",North Sound,3,4,51,113,2,0,45.13,caught,No,No,Yes,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1188629,30-08-2019,2019,Test,West Indies,"Sabina Park, Jamaica",Kingston,1,4,76,163,10,0,46.63,caught,No,No,Yes,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1188629,30-08-2019,2019,Test,West Indies,"Sabina Park, Jamaica",Kingston,3,4,0,1,0,0,0,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1187005,18-09-2019,2019,T20,South Africa,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,2,3,72,52,4,3,138.46,Not Out,Yes,No,Yes,Win,Yes,Captain,International captaincy tenure by format,Cricsheet
+1187006,22-09-2019,2019,T20,South Africa,M.Chinnaswamy Stadium,Bengaluru,1,3,9,15,0,0,60,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1187007,02-10-2019,2019,Test,South Africa,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,1,4,20,40,4,0,50,caught and bowled,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1187007,02-10-2019,2019,Test,South Africa,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,3,5,31,25,3,1,124,Not Out,Yes,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1187008,10-10-2019,2019,Test,South Africa,Maharashtra Cricket Association Stadium,Pune,1,4,254,336,33,2,75.6,Not Out,Yes,Yes,No,Win,Yes,Captain,International captaincy tenure by format,Cricsheet
+1187009,19-10-2019,2019,Test,South Africa,JSCA International Stadium Complex,Ranchi,1,4,12,22,2,0,54.55,lbw,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1187016,14-11-2019,2019,Test,Bangladesh,Holkar Cricket Stadium,Indore,2,4,0,2,0,0,0,lbw,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1187017,22-11-2019,2019,Test,Bangladesh,Eden Gardens,Kolkata,2,4,136,194,18,0,70.1,caught,No,Yes,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1187018,06-12-2019,2019,T20,West Indies,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,2,3,94,50,6,6,188,Not Out,Yes,No,Yes,Win,Yes,Captain,International captaincy tenure by format,Cricsheet
+1187019,08-12-2019,2019,T20,West Indies,Greenfield International Stadium,Thiruvananthapuram,1,4,19,17,2,0,111.76,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1187020,11-12-2019,2019,T20,West Indies,Wankhede Stadium,Mumbai,1,4,70,29,4,7,241.38,Not Out,Yes,No,Yes,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1187021,15-12-2019,2019,ODI,West Indies,"MA Chidambaram Stadium, Chepauk",Chennai,1,3,4,4,1,0,100,bowled,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1187022,18-12-2019,2019,ODI,West Indies,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,1,3,0,1,0,0,0,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1187023,22-12-2019,2019,ODI,West Indies,Barabati Stadium,Cuttack,2,3,85,81,9,0,104.94,bowled,No,No,Yes,Win,Yes,Captain,International captaincy tenure by format,Cricsheet
+1202243,07-01-2020,2020,T20,Sri Lanka,Holkar Cricket Stadium,Indore,2,4,30,17,1,2,176.47,Not Out,Yes,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1202244,10-01-2020,2020,T20,Sri Lanka,Maharashtra Cricket Association Stadium,Pune,1,6,26,17,2,1,152.94,run out,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1187027,14-01-2020,2020,ODI,Australia,Wankhede Stadium,Mumbai,1,4,16,14,0,1,114.29,caught and bowled,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1187028,17-01-2020,2020,ODI,Australia,Saurashtra Cricket Association Stadium,Rajkot,1,3,78,76,6,0,102.63,caught,No,No,Yes,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1187029,19-01-2020,2020,ODI,Australia,M.Chinnaswamy Stadium,Bengaluru,2,3,89,91,8,0,97.8,bowled,No,No,Yes,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1187677,24-01-2020,2020,T20,New Zealand,Eden Park,Auckland,2,3,45,32,3,1,140.62,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1187678,26-01-2020,2020,T20,New Zealand,Eden Park,Auckland,2,3,11,12,1,0,91.67,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1187679,29-01-2020,2020,T20,New Zealand,Seddon Park,Hamilton,1,4,38,27,2,1,140.74,caught,No,No,No,No Result/Tie,No,Captain,International captaincy tenure by format,Cricsheet
+1187680,31-01-2020,2020,T20,New Zealand,Westpac Stadium,Wellington,1,3,11,9,2,0,122.22,caught,No,No,No,No Result/Tie,No,Captain,International captaincy tenure by format,Cricsheet
+1187680,31-01-2020,2020,T20,New Zealand,Westpac Stadium,Wellington,4,2,6,2,1,0,300,Not Out,Yes,No,No,No Result/Tie,No,Captain,International captaincy tenure by format,Cricsheet
+1187682,05-02-2020,2020,ODI,New Zealand,Seddon Park,Hamilton,1,3,51,63,6,0,80.95,bowled,No,No,Yes,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1187683,08-02-2020,2020,ODI,New Zealand,Eden Park,Auckland,2,3,15,25,1,0,60,bowled,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1187684,11-02-2020,2020,ODI,New Zealand,Bay Oval,Mount Maunganui,1,3,9,12,0,1,75,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1187685,21-02-2020,2020,Test,New Zealand,Basin Reserve,Wellington,1,4,2,7,0,0,28.57,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1187685,21-02-2020,2020,Test,New Zealand,Basin Reserve,Wellington,3,4,19,43,3,0,44.19,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1187686,29-02-2020,2020,Test,New Zealand,Hagley Oval,Christchurch,1,4,3,15,0,0,20,lbw,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1187686,29-02-2020,2020,Test,New Zealand,Hagley Oval,Christchurch,3,4,14,30,3,0,46.67,lbw,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1223955,27-11-2020,2020,ODI,Australia,Sydney Cricket Ground,Sydney,2,3,21,21,2,1,100,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Derived from Venue
+1223956,29-11-2020,2020,ODI,Australia,Sydney Cricket Ground,Sydney,2,3,89,87,7,2,102.3,caught,No,No,Yes,Loss,No,Captain,International captaincy tenure by format,Derived from Venue
+1223957,02-12-2020,2020,ODI,Australia,Manuka Oval,Canberra,1,3,63,78,5,0,80.77,caught,No,No,Yes,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1223952,04-12-2020,2020,T20,Australia,Manuka Oval,Canberra,1,3,9,9,1,0,100,caught and bowled,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1223953,06-12-2020,2020,T20,Australia,Sydney Cricket Ground,Sydney,2,3,40,24,2,2,166.67,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1223954,08-12-2020,2020,T20,Australia,Sydney Cricket Ground,Sydney,2,3,85,61,4,3,139.34,caught,No,No,Yes,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1223869,17-12-2020,2020,Test,Australia,Adelaide Oval,Adelaide,1,4,74,180,8,0,41.11,Not Out,Yes,No,Yes,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1223869,17-12-2020,2020,Test,Australia,Adelaide Oval,Adelaide,3,5,4,8,1,0,50,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1243384,05-02-2021,2021,Test,England,MA Chidambaram Stadium,Chennai,2,4,11,48,0,0,22.92,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1243384,05-02-2021,2021,Test,England,MA Chidambaram Stadium,Chennai,4,4,72,104,9,0,69.23,bowled,No,No,Yes,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1243385,13-02-2021,2021,Test,England,MA Chidambaram Stadium,Chennai,1,4,0,5,0,0,0,bowled,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1243385,13-02-2021,2021,Test,England,MA Chidambaram Stadium,Chennai,3,4,62,149,7,0,41.61,lbw,No,No,Yes,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1243386,24-02-2021,2021,Test,England,Narendra Modi Stadium,Ahmedabad,2,4,27,58,3,0,46.55,bowled,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1243387,04-03-2021,2021,Test,England,Narendra Modi Stadium,Ahmedabad,2,4,0,8,0,0,0,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1243388,12-03-2021,2021,T20,England,Narendra Modi Stadium,Ahmedabad,1,3,0,5,0,0,0,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1243389,14-03-2021,2021,T20,England,Narendra Modi Stadium,Ahmedabad,2,3,73,49,5,3,148.98,Not Out,Yes,No,Yes,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1243390,16-03-2021,2021,T20,England,Narendra Modi Stadium,Ahmedabad,1,4,77,46,8,4,167.39,Not Out,Yes,No,Yes,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1243391,18-03-2021,2021,T20,England,Narendra Modi Stadium,Ahmedabad,1,4,1,5,0,0,20,stumped,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1243392,20-03-2021,2021,T20,England,Narendra Modi Stadium,Ahmedabad,1,2,80,52,7,2,153.85,Not Out,Yes,No,Yes,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1243393,23-03-2021,2021,ODI,England,Maharashtra Cricket Association Stadium,Pune,1,3,56,60,6,0,93.33,caught,No,No,Yes,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1243394,26-03-2021,2021,ODI,England,Maharashtra Cricket Association Stadium,Pune,1,3,66,79,3,1,83.54,caught,No,No,Yes,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1243395,28-03-2021,2021,ODI,England,Maharashtra Cricket Association Stadium,Pune,1,3,7,10,1,0,70,bowled,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1249875,18-06-2021,2021,Test,New Zealand,"The Rose Bowl, Southampton",Southampton,1,4,44,132,1,0,33.33,lbw,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1249875,18-06-2021,2021,Test,New Zealand,"The Rose Bowl, Southampton",Southampton,3,4,13,29,0,0,44.83,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1239543,04-08-2021,2021,Test,England,"Trent Bridge, Nottingham",Nottingham,2,4,0,1,0,0,0,caught,No,No,No,No Result/Tie,No,Captain,International captaincy tenure by format,Cricsheet
+1239544,12-08-2021,2021,Test,England,"Lord's, London",London,1,4,42,103,3,0,40.78,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1239544,12-08-2021,2021,Test,England,"Lord's, London",London,3,4,20,31,4,0,64.52,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1239545,25-08-2021,2021,Test,England,"Headingley, Leeds",Leeds,1,4,7,17,1,0,41.18,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1239545,25-08-2021,2021,Test,England,"Headingley, Leeds",Leeds,3,4,55,125,8,0,44,caught,No,No,Yes,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1239546,02-09-2021,2021,Test,England,"Kennington Oval, London",London,1,4,50,96,8,0,52.08,caught,No,No,Yes,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1239546,02-09-2021,2021,Test,England,"Kennington Oval, London",London,3,4,44,96,7,0,45.83,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1273727,24-10-2021,2021,T20,Pakistan,Dubai International Cricket Stadium,Dubai,1,3,57,49,5,1,116.33,caught,No,No,Yes,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1273739,31-10-2021,2021,T20,New Zealand,Dubai International Cricket Stadium,Dubai,1,4,9,17,0,0,52.94,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1273748,05-11-2021,2021,T20,Scotland,Dubai International Cricket Stadium,Dubai,2,3,2,2,0,0,100,Not Out,Yes,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1278675,03-12-2021,2021,Test,New Zealand,"Wankhede Stadium, Mumbai",Mumbai,1,4,0,4,0,0,0,lbw,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1278675,03-12-2021,2021,Test,New Zealand,"Wankhede Stadium, Mumbai",Mumbai,3,4,36,84,1,1,42.86,bowled,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1277079,26-12-2021,2021,Test,South Africa,"SuperSport Park, Centurion",Centurion,1,4,35,94,4,0,37.23,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1277079,26-12-2021,2021,Test,South Africa,"SuperSport Park, Centurion",Centurion,3,5,18,32,4,0,56.25,caught,No,No,No,Win,No,Captain,International captaincy tenure by format,Cricsheet
+1277081,11-01-2022,2022,Test,South Africa,"Newlands, Cape Town",Cape Town,1,4,79,201,12,1,39.3,caught,No,No,Yes,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1277081,11-01-2022,2022,Test,South Africa,"Newlands, Cape Town",Cape Town,3,4,29,143,4,0,20.28,caught,No,No,No,Loss,No,Captain,International captaincy tenure by format,Cricsheet
+1277082,19-01-2022,2022,ODI,South Africa,"Boland Park, Paarl",Paarl,2,3,51,63,3,0,80.95,caught,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1277083,21-01-2022,2022,ODI,South Africa,"Boland Park, Paarl",Paarl,1,3,0,5,0,0,0,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1277084,23-01-2022,2022,ODI,South Africa,"Newlands, Cape Town",Cape Town,2,3,65,84,5,0,77.38,caught,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1278676,06-02-2022,2022,ODI,West Indies,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,2,3,8,4,2,0,200,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1278677,09-02-2022,2022,ODI,West Indies,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,1,3,18,30,3,0,60,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1278678,11-02-2022,2022,ODI,West Indies,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,1,3,0,2,0,0,0,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1278679,16-02-2022,2022,T20,West Indies,"Eden Gardens, Kolkata",Kolkata,2,3,17,13,1,0,130.77,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1278680,18-02-2022,2022,T20,West Indies,"Eden Gardens, Kolkata",Kolkata,1,3,52,41,7,1,126.83,bowled,No,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1278682,04-03-2022,2022,Test,Sri Lanka,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,1,4,45,76,5,0,59.21,bowled,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1278683,12-03-2022,2022,Test,Sri Lanka,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,1,4,23,48,2,0,47.92,lbw,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1278683,12-03-2022,2022,Test,Sri Lanka,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,3,4,13,16,1,0,81.25,lbw,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1320741,01-07-2022,2022,Test,England,"Edgbaston, Birmingham",Birmingham,1,4,11,19,2,0,57.89,bowled,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1320741,01-07-2022,2022,Test,England,"Edgbaston, Birmingham",Birmingham,3,4,20,40,4,0,50,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1276905,09-07-2022,2022,T20,England,"Edgbaston, Birmingham",Birmingham,1,3,1,3,0,0,33.33,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1276906,10-07-2022,2022,T20,England,"Trent Bridge, Nottingham",Nottingham,2,3,11,6,1,1,183.33,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1276908,14-07-2022,2022,ODI,England,"Lord's, London",London,2,3,16,25,3,0,64,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1276909,17-07-2022,2022,ODI,England,"Old Trafford, Manchester",Manchester,2,3,17,22,3,0,77.27,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1327270,28-08-2022,2022,T20,Pakistan,Dubai International Cricket Stadium,Dubai,2,3,35,34,3,1,102.94,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1327272,31-08-2022,2022,T20,Hong Kong,Dubai International Cricket Stadium,Dubai,1,3,59,44,1,3,134.09,Not Out,Yes,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1327276,04-09-2022,2022,T20,Pakistan,Dubai International Cricket Stadium,Dubai,1,3,60,44,4,1,136.36,run out,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1327277,06-09-2022,2022,T20,Sri Lanka,Dubai International Cricket Stadium,Dubai,1,3,0,4,0,0,0,bowled,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1327503,20-09-2022,2022,T20,Australia,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,1,3,2,7,0,0,28.57,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1327504,23-09-2022,2022,T20,Australia,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Nagpur,2,3,11,6,2,0,183.33,bowled,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1327505,25-09-2022,2022,T20,Australia,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,2,3,63,48,3,4,131.25,caught,No,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1327506,28-09-2022,2022,T20,South Africa,"Greenfield International Stadium, Thiruvananthapuram",Thiruvananthapuram,2,3,3,9,0,0,33.33,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1327507,02-10-2022,2022,T20,South Africa,"Barsapara Cricket Stadium, Guwahati",Guwahati,1,3,49,28,7,1,175,Not Out,Yes,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1298150,23-10-2022,2022,T20,Pakistan,Melbourne Cricket Ground,Melbourne,2,3,82,53,6,4,154.72,Not Out,Yes,No,Yes,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+1298157,27-10-2022,2022,T20,Netherlands,Sydney Cricket Ground,Sydney,1,3,62,44,3,2,140.91,Not Out,Yes,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1298164,30-10-2022,2022,T20,South Africa,Perth Stadium,Perth,1,3,12,11,2,0,109.09,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1298169,02-11-2022,2022,T20,Bangladesh,Adelaide Oval,Adelaide,1,3,64,44,8,1,145.45,Not Out,Yes,No,Yes,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+1298176,06-11-2022,2022,T20,Zimbabwe,Melbourne Cricket Ground,Melbourne,1,3,26,25,2,0,104,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1298178,10-11-2022,2022,T20,England,Adelaide Oval,Adelaide,1,3,50,40,4,1,125,caught,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1340845,04-12-2022,2022,ODI,Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,1,3,9,15,1,0,60,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1340846,07-12-2022,2022,ODI,Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,2,1,5,6,1,0,83.33,bowled,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1340847,10-12-2022,2022,ODI,Bangladesh,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,1,3,113,91,11,2,124.18,caught,No,Yes,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1340848,14-12-2022,2022,Test,Bangladesh,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,1,4,1,5,0,0,20,lbw,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1340848,14-12-2022,2022,Test,Bangladesh,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,3,4,19,29,0,0,65.52,Not Out,Yes,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1340849,22-12-2022,2022,Test,Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,2,4,24,73,3,0,32.88,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1340849,22-12-2022,2022,Test,Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,4,5,1,22,0,0,4.55,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1348643,10-01-2023,2023,ODI,Sri Lanka,"Barsapara Cricket Stadium, Guwahati",Guwahati,1,3,113,87,12,1,129.89,caught,No,Yes,No,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+1348644,12-01-2023,2023,ODI,Sri Lanka,"Eden Gardens, Kolkata",Kolkata,2,3,4,9,1,0,44.44,bowled,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1348645,15-01-2023,2023,ODI,Sri Lanka,"Greenfield International Stadium, Thiruvananthapuram",Thiruvananthapuram,1,3,166,110,13,8,150.91,Not Out,Yes,Yes,No,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+1348646,18-01-2023,2023,ODI,New Zealand,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,1,3,8,10,1,0,80,bowled,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1348647,21-01-2023,2023,ODI,New Zealand,"Shaheed Veer Narayan Singh International Stadium, Raipur",Raipur,2,3,11,9,2,0,122.22,stumped,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1348648,24-01-2023,2023,ODI,New Zealand,"Holkar Cricket Stadium, Indore",Indore,1,3,36,27,3,1,133.33,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1348652,09-02-2023,2023,Test,Australia,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Nagpur,2,5,12,26,2,0,46.15,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1348653,17-02-2023,2023,Test,Australia,"Arun Jaitley Stadium, Delhi",Delhi,2,4,44,84,4,0,52.38,lbw,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1348653,17-02-2023,2023,Test,Australia,"Arun Jaitley Stadium, Delhi",Delhi,4,4,20,31,3,0,64.52,stumped,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1348654,01-03-2023,2023,Test,Australia,"Holkar Cricket Stadium, Indore",Indore,1,4,22,52,2,0,42.31,lbw,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1348654,01-03-2023,2023,Test,Australia,"Holkar Cricket Stadium, Indore",Indore,3,4,13,26,2,0,50,lbw,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1348655,09-03-2023,2023,Test,Australia,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,2,4,186,364,15,0,51.1,caught,No,Yes,No,No Result/Tie,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+1348656,17-03-2023,2023,ODI,Australia,"Wankhede Stadium, Mumbai",Mumbai,2,3,4,9,1,0,44.44,lbw,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1348657,19-03-2023,2023,ODI,Australia,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,1,3,31,35,4,0,88.57,lbw,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1348658,22-03-2023,2023,ODI,Australia,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,2,3,54,72,2,1,75,caught,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1358412,07-06-2023,2023,Test,Australia,"Kennington Oval, London",London,2,4,14,31,2,0,45.16,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1358412,07-06-2023,2023,Test,Australia,"Kennington Oval, London",London,4,4,49,78,7,0,62.82,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1381212,12-07-2023,2023,Test,West Indies,"Windsor Park, Roseau, Dominica",Roseau,2,4,76,182,5,0,41.76,caught,No,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1381213,20-07-2023,2023,Test,West Indies,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,1,4,121,206,11,0,58.74,run out,No,Yes,No,No Result/Tie,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1388394,02-09-2023,2023,ODI,Pakistan,Pallekele International Cricket Stadium,Kandy,1,3,4,7,1,0,57.14,bowled,No,No,No,No Result/Tie,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1388406,10-09-2023,2023,ODI,Pakistan,"R Premadasa Stadium, Colombo",Colombo,1,3,122,94,9,3,129.79,Not Out,Yes,Yes,No,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+1388407,12-09-2023,2023,ODI,Sri Lanka,"R Premadasa Stadium, Colombo",Colombo,1,3,3,12,0,0,25,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1389390,27-09-2023,2023,ODI,Australia,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,2,3,56,61,5,1,91.8,caught,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1384396,08-10-2023,2023,ODI,Australia,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,2,3,85,116,6,0,73.28,caught,No,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1384403,14-10-2023,2023,ODI,Pakistan,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,2,3,16,18,3,0,88.89,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1384408,19-10-2023,2023,ODI,Bangladesh,"Maharashtra Cricket Association Stadium, Pune",Pune,2,3,103,97,6,4,106.19,Not Out,Yes,Yes,No,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+1384412,22-10-2023,2023,ODI,New Zealand,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,2,3,95,104,8,2,91.35,caught,No,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1384420,29-10-2023,2023,ODI,England,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,1,3,0,9,0,0,0,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1384424,02-11-2023,2023,ODI,Sri Lanka,"Wankhede Stadium, Mumbai",Mumbai,1,3,88,94,11,0,93.62,caught,No,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1384428,05-11-2023,2023,ODI,South Africa,"Eden Gardens, Kolkata",Kolkata,1,3,101,121,10,0,83.47,Not Out,Yes,Yes,No,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+1384436,12-11-2023,2023,ODI,Netherlands,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,1,3,51,56,5,1,91.07,bowled,No,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1384437,15-11-2023,2023,ODI,New Zealand,"Wankhede Stadium, Mumbai",Mumbai,1,3,117,113,9,2,103.54,caught,No,Yes,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1384439,19-11-2023,2023,ODI,Australia,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,1,3,54,63,4,0,85.71,bowled,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1387603,26-12-2023,2023,Test,South Africa,"SuperSport Park, Centurion",Centurion,1,4,38,64,5,0,59.38,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1387603,26-12-2023,2023,Test,South Africa,"SuperSport Park, Centurion",Centurion,3,4,76,82,12,1,92.68,caught,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1387604,03-01-2024,2024,Test,South Africa,"Newlands, Cape Town",Cape Town,2,4,46,59,6,1,77.97,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1387604,03-01-2024,2024,Test,South Africa,"Newlands, Cape Town",Cape Town,4,4,12,11,2,0,109.09,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1415708,05-06-2024,2024,T20,Ireland,"Nassau County International Cricket Stadium, New York",New York,2,2,1,5,0,0,20,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1415719,09-06-2024,2024,T20,Pakistan,"Nassau County International Cricket Stadium, New York",New York,1,2,4,3,1,0,133.33,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1415725,12-06-2024,2024,T20,United States of America,"Nassau County International Cricket Stadium, New York",New York,2,2,0,1,0,0,0,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1415747,22-06-2024,2024,T20,Bangladesh,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,1,2,37,28,1,3,132.14,bowled,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1415751,24-06-2024,2024,T20,Australia,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,1,2,0,5,0,0,0,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1415754,27-06-2024,2024,T20,England,"Providence Stadium, Guyana",Providence,1,2,9,9,0,1,100,bowled,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1415755,29-06-2024,2024,T20,South Africa,"Kensington Oval, Bridgetown, Barbados",Bridgetown,1,2,76,59,6,2,128.81,caught,No,No,Yes,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+1442990,02-08-2024,2024,ODI,Sri Lanka,"R Premadasa Stadium, Colombo",Colombo,2,3,24,32,2,0,75,lbw,No,No,No,No Result/Tie,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1442991,04-08-2024,2024,ODI,Sri Lanka,"R Premadasa Stadium, Colombo",Colombo,2,3,14,19,2,0,73.68,lbw,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1442992,07-08-2024,2024,ODI,Sri Lanka,"R Premadasa Stadium, Colombo",Colombo,2,3,20,18,4,0,111.11,lbw,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1439891,19-09-2024,2024,Test,Bangladesh,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,1,4,6,6,0,0,100,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1439891,19-09-2024,2024,Test,Bangladesh,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,3,4,17,37,2,0,45.95,lbw,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1439892,27-09-2024,2024,Test,Bangladesh,"Green Park, Kanpur",Kanpur,2,5,47,35,4,1,134.29,bowled,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1439892,27-09-2024,2024,Test,Bangladesh,"Green Park, Kanpur",Kanpur,4,4,29,37,4,0,78.38,Not Out,Yes,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1439896,16-10-2024,2024,Test,New Zealand,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,1,3,0,9,0,0,0,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1439896,16-10-2024,2024,Test,New Zealand,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,3,3,70,102,8,1,68.63,caught,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1439897,24-10-2024,2024,Test,New Zealand,"Maharashtra Cricket Association Stadium, Pune",Pune,2,4,1,9,0,0,11.11,bowled,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1439897,24-10-2024,2024,Test,New Zealand,"Maharashtra Cricket Association Stadium, Pune",Pune,4,4,17,40,2,0,42.5,lbw,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1439898,01-11-2024,2024,Test,New Zealand,"Wankhede Stadium, Mumbai",Mumbai,2,5,4,6,1,0,66.67,run out,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1439898,01-11-2024,2024,Test,New Zealand,"Wankhede Stadium, Mumbai",Mumbai,4,4,1,7,0,0,14.29,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1426555,22-11-2024,2024,Test,Australia,Perth Stadium,Perth,1,4,5,12,0,0,41.67,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1426555,22-11-2024,2024,Test,Australia,Perth Stadium,Perth,3,4,100,143,8,2,69.93,Not Out,Yes,Yes,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1426556,06-12-2024,2024,Test,Australia,Adelaide Oval,Adelaide,1,4,7,8,1,0,87.5,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1426556,06-12-2024,2024,Test,Australia,Adelaide Oval,Adelaide,3,4,11,21,1,0,52.38,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1426557,14-12-2024,2024,Test,Australia,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,2,4,3,16,0,0,18.75,caught,No,No,No,No Result/Tie,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1426558,26-12-2024,2024,Test,Australia,Melbourne Cricket Ground,Melbourne,2,4,36,86,4,0,41.86,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1426558,26-12-2024,2024,Test,Australia,Melbourne Cricket Ground,Melbourne,4,4,5,29,0,0,17.24,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1426559,03-01-2025,2025,Test,Australia,Sydney Cricket Ground,Sydney,1,4,17,69,0,0,24.64,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1426559,03-01-2025,2025,Test,Australia,Sydney Cricket Ground,Sydney,3,4,6,12,1,0,50,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1439905,09-02-2025,2025,ODI,England,"Barabati Stadium, Cuttack",Cuttack,2,3,5,8,1,0,62.5,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1439906,12-02-2025,2025,ODI,England,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,1,3,52,55,7,1,94.55,caught,No,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1466415,20-02-2025,2025,ODI,Bangladesh,Dubai International Cricket Stadium,Dubai,2,3,22,38,1,0,57.89,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1466418,23-02-2025,2025,ODI,Pakistan,Dubai International Cricket Stadium,Dubai,2,3,100,111,7,0,90.09,Not Out,Yes,Yes,No,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+1466425,02-03-2025,2025,ODI,New Zealand,Dubai International Cricket Stadium,Dubai,1,3,11,14,2,0,78.57,caught,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1466426,04-03-2025,2025,ODI,Australia,Dubai International Cricket Stadium,Dubai,2,3,84,98,5,0,85.71,caught,No,No,Yes,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+1466428,09-03-2025,2025,ODI,New Zealand,Dubai International Cricket Stadium,Dubai,2,3,1,2,0,0,50,lbw,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1478904,19-10-2025,2025,ODI,Australia,Perth Stadium,Perth,1,3,0,8,0,0,0,caught,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1478905,23-10-2025,2025,ODI,Australia,Adelaide Oval,Adelaide,1,3,0,4,0,0,0,lbw,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1478906,25-10-2025,2025,ODI,Australia,Sydney Cricket Ground,Sydney,2,3,74,81,7,0,91.36,Not Out,Yes,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1479573,30-11-2025,2025,ODI,South Africa,"JSCA International Stadium Complex, Ranchi",Ranchi,1,3,135,120,11,7,112.5,caught,No,Yes,No,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+1479574,03-12-2025,2025,ODI,South Africa,"Shaheed Veer Narayan Singh International Stadium, Raipur",Raipur,1,3,102,93,7,2,109.68,caught,No,Yes,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1479575,06-12-2025,2025,ODI,South Africa,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,2,3,65,45,6,3,144.44,Not Out,Yes,No,Yes,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1490231,11-01-2026,2026,ODI,New Zealand,"Kotambi Stadium, Vadodara",Vadodara,2,3,93,91,8,1,102.2,caught,No,No,Yes,Win,Yes,Non-Captain,International captaincy tenure by format,Cricsheet
+1490232,14-01-2026,2026,ODI,New Zealand,"Niranjan Shah Stadium, Rajkot",Rajkot,1,3,23,29,2,0,79.31,bowled,No,No,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1490233,18-01-2026,2026,ODI,New Zealand,"Holkar Cricket Stadium, Indore",Indore,2,3,124,108,10,3,114.81,caught,No,Yes,No,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1496579,14-07-2026,2026,ODI,England,"Edgbaston, Birmingham",Birmingham,2,3,5,6,1,0,83.33,lbw,No,No,No,Win,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1496580,16-07-2026,2026,ODI,England,"Sophia Gardens, Cardiff",Cardiff,1,3,65,66,8,0,98.48,caught,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
+1496581,19-07-2026,2026,ODI,England,"Lord's, London",London,2,3,74,60,4,3,123.33,caught,No,No,Yes,Loss,No,Non-Captain,International captaincy tenure by format,Cricsheet
